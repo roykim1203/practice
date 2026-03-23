@@ -1,3 +1,3 @@
 from model import hello
 
-hello()
+hello("")
